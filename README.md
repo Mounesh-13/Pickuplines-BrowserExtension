@@ -14,6 +14,7 @@ A fun and romantic **Chrome extension** that displays a random **pickup line** i
 3. Click the **"New Pickup Line"** button to generate one!  
 
 Enjoy the **cutest** pickup lines anytime! 😍
-<img width="463" alt="image" src="https://github.com/user-attachments/assets/c1ab7bd4-5339-4484-934d-57862fee31e0" />
 
+
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/c1ab7bd4-5339-4484-934d-57862fee31e0" />
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/547ac9e2-0a4e-4bbb-aa3d-324e4517e99b" />
